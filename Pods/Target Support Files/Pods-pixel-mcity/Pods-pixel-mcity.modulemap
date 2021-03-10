@@ -1,0 +1,6 @@
+framework module Pods_pixel_mcity {
+  umbrella header "Pods-pixel-mcity-umbrella.h"
+
+  export *
+  module * { export * }
+}
